@@ -11,6 +11,10 @@
 - Loves to explore new technologies and leverage them to solve real-life problems ✨
 <br/><br/>
 
+
+![Sachit's github stats](https://github-readme-stats.vercel.app/api?username=tsachit&show_icons=true&hide_border=true)
+<br/><br/>
+
 ### Languages and Tools 👨‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -46,8 +50,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket&logoColor=0052CC)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-
-
+<br/><br/>
 
 ### Feel free to reach out to me ✉️
 
