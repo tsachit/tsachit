@@ -1,4 +1,6 @@
-[![Header](https://github.com/tsachit/tsachit/raw/master/sachit.gif)](http://sachitkarki.com.np/)
+<p align="center">
+  <a href="http://sachitkarki.com.np/" target="_blank"><img src="https://github.com/tsachit/tsachit/raw/master/sachit.gif" width="100%"></a>
+</p>
 
 ### Welcome to my profile 👋
 
