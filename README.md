@@ -9,6 +9,8 @@
 - Experienced software engineer 💻 with a demonstrated history of working in the information technology and services industry since 2013.
 - Passionate learner who's always willing to learn new things and work across technologies and domains 💡
 - Loves to explore new technologies and leverage them to solve real-life problems ✨
+- Third Place Regional winners of [Facebook 2019 Community Challenge](https://developers.facebook.com/blog/post/2019/10/16/regional-winners-2019-developer-circles-community-challenge-announced/) - Asia Pacific (For [BaghChal. Nepali Board Game](https://devpost.com/software/baghchal-nepali-board-game)) 🎮
+
 <br/><br/>
 
 
