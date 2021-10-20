@@ -24,6 +24,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-0869ad?style=flat&logo=jQuery&logoColor=77d0f5)
+![PolymerJS](https://img.shields.io/badge/-PolymerJS-1E88E5?style=flat&logo=polymerproject)
 ![React](https://img.shields.io/badge/-React-282c34?style=flat&logo=react)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-282c34?style=flat&logo=react)
 
@@ -47,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=Postman)
-![AWS](https://img.shields.io/badge/-AWS-ec7211)
+![AWS](https://img.shields.io/badge/-AWS-ec7211?style=flat&logo=amazon%20aws)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
