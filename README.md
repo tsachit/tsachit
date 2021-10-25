@@ -10,12 +10,12 @@
 - Passionate learner who's always willing to learn new things and work across technologies and domains 💡
 - Loves to explore new technologies and leverage them to solve real-life problems ✨
 - Third Place Regional winners of [Facebook 2019 Community Challenge](https://developers.facebook.com/blog/post/2019/10/16/regional-winners-2019-developer-circles-community-challenge-announced/) - Asia Pacific (For [BaghChal. Nepali Board Game](https://devpost.com/software/baghchal-nepali-board-game)) 🎮
-<br/><br/>
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Github Stats">
 <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Language Card">
-<br/><br/>
+<br/>
 
 ### Languages and Tools 👨‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -54,7 +54,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket&logoColor=0052CC)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-<br/><br/>
+<br/>
 
 ### Feel free to reach out to me ✉️
 
