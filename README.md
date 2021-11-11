@@ -12,9 +12,21 @@
 - Third Place Regional winners of [Facebook 2019 Community Challenge](https://developers.facebook.com/blog/post/2019/10/16/regional-winners-2019-developer-circles-community-challenge-announced/) - Asia Pacific (For [BaghChal. Nepali Board Game](https://devpost.com/software/baghchal-nepali-board-game)) 🎮
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Language Card">
 
+<table border="0">
+ <tr>
+    <td>
+      <a href="https://app.daily.dev/tsachit"><img src="https://api.daily.dev/devcards/521b053cc75048bdbc4072fa5ae5a962.png?r=01y" width="400" alt="Sachit Karki's Dev Card"/></a>
+   </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Github Stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Language Card">
+    </td>
+  </tr>
+</table>
+
+
+</span>
 
 ### Languages and Tools 👨‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
