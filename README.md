@@ -12,8 +12,7 @@
 - Third Place Regional winners of [Facebook 2019 Community Challenge](https://developers.facebook.com/blog/post/2019/10/16/regional-winners-2019-developer-circles-community-challenge-announced/) - Asia Pacific (For [BaghChal. Nepali Board Game](https://devpost.com/software/baghchal-nepali-board-game)) 🎮
 <br/>
 
-
-<table border="0">
+<table>
  <tr>
     <td>
       <a href="https://app.daily.dev/tsachit"><img src="https://api.daily.dev/devcards/521b053cc75048bdbc4072fa5ae5a962.png?r=01y" width="400" alt="Sachit Karki's Dev Card"/></a>
