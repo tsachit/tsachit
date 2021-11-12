@@ -2,7 +2,7 @@
   <a href="http://sachitkarki.com.np/" target="_blank"><img src="https://github.com/tsachit/tsachit/raw/master/sachit.gif" width="100%"></a>
 </p>
 
-### Welcome to my profile 👋
+### Welcome to my profile 👋 &nbsp; ![](https://komarev.com/ghpvc/?username=tsachit)
 
 - Completed Bachelor's Degree in Computer Science and Information Technology 🎓 from Kathford International College of Engineering and Management 🏛
 - Completed Master's Degree in Computer Science 🎓 from Nepal College of Information Technology 🏛
