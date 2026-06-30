@@ -15,11 +15,47 @@
 <table>
  <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Github Stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=tsachit&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sachit's Language Card">
+      <a href="https://app.daily.dev/tsachit"><img src="https://api.daily.dev/devcards/521b053cc75048bdbc4072fa5ae5a962.png?r=01y" width="400" alt="Sachit Karki's Dev Card"/></a>
     </td>
     <td>
-      <a href="https://app.daily.dev/tsachit"><img src="https://api.daily.dev/devcards/521b053cc75048bdbc4072fa5ae5a962.png?r=01y" width="400" alt="Sachit Karki's Dev Card"/></a>
+        
+  ### Languages and Experiences 👨‍💻
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/-jQuery-0869ad?style=flat&logo=jQuery&logoColor=77d0f5)
+  ![PolymerJS](https://img.shields.io/badge/-PolymerJS-1E88E5?style=flat&logo=polymerproject)
+  ![React](https://img.shields.io/badge/-React-282c34?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-React%20Native-282c34?style=flat&logo=react)
+  
+  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter)
+  ![CakePHP](https://img.shields.io/badge/-CakePHP-black?style=flat&logo=CakePHP)
+  ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel)
+  
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+  ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat&logo=Strapi)
+  ![Ruby](https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby)
+  ![RubyonRails](https://img.shields.io/badge/-RubyonRails-CC0000?style=flat&logo=ruby-on-rails)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)
+  
+  ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=0052CC)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+  ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
+  ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=Postman)
+  ![AWS](https://img.shields.io/badge/-AWS-ec7211?style=flat&logo=amazon%20aws)
+  
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket&logoColor=0052CC)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
    </td>
   </tr>
 </table>
@@ -27,43 +63,6 @@
 
 </span>
 
-### Languages and Tools 👨‍💻
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-0869ad?style=flat&logo=jQuery&logoColor=77d0f5)
-![PolymerJS](https://img.shields.io/badge/-PolymerJS-1E88E5?style=flat&logo=polymerproject)
-![React](https://img.shields.io/badge/-React-282c34?style=flat&logo=react)
-![ReactNative](https://img.shields.io/badge/-React%20Native-282c34?style=flat&logo=react)
-
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter)
-![CakePHP](https://img.shields.io/badge/-CakePHP-black?style=flat&logo=CakePHP)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel)
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat&logo=Strapi)
-![Ruby](https://img.shields.io/badge/-Ruby-CC0000?style=flat&logo=ruby)
-![RubyonRails](https://img.shields.io/badge/-RubyonRails-CC0000?style=flat&logo=ruby-on-rails)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)
-
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=0052CC)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
-![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=Postman)
-![AWS](https://img.shields.io/badge/-AWS-ec7211?style=flat&logo=amazon%20aws)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket&logoColor=0052CC)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 <br/><br/>
 
 ### Feel free to reach out to me ✉️
